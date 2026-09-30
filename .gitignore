@@ -1,0 +1,11 @@
+.deps/
+.local/
+build/
+dist/
+captures/
+__pycache__/
+*.keystore
+*.jks
+*.apk
+*.csv
+local.properties
